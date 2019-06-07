@@ -1,0 +1,49 @@
+a {
+    color: aliceblue;
+}
+
+.jumbotron {
+    background-color: whitegray;
+    background-image: url(../imgs/bullet.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+
+}
+
+.jumbotron2 {
+    background-color: whitegray;
+    background-image: url(../imgs/landscape-4254269_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+
+}
+
+footer {
+    background-color: #333;
+    height: 60px;
+    
+    text-align: center;
+    padding-top: 15px;
+
+
+}
+
+h2 {
+    color: antiquewhite;
+    font-size: 15px;
+
+}
+
+.jumbotron3 {
+    background-color: whitegray;
+    background-image: url(../imgs/dangerous-1282330__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+
+}
